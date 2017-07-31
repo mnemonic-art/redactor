@@ -1,0 +1,7 @@
+<?xml version="1.0" ?>
+<document>
+  <host>localhost</host>
+  <dbname>imperavi</dbname>
+  <user>root</user>
+  <password></password>
+</document>
